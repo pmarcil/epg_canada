@@ -56,57 +56,12 @@
 		<display-name>TVASPTH</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/73142/s73142_h3_aa.png" />
 	</channel>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I2.45867.zap2it.com">
-		<title lang="en">Le téléjournal midi</title>
-		<desc lang="en">Nouvelles nationales et internationales.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">29</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
-		<episode-num system="dd_progid">SH02082981.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I2.45867.zap2it.com">
-		<title lang="en">La facture</title>
-		<sub-title lang="en">Problèmes de sécurité avec les sièges d&apos;auto pour enfants; Ruelle privée</sub-title>
-		<desc lang="en">Une mère apprend que le véhicule qu&apos;on lui a vendu ne peut pas accommoder sa famille; en septembre dernier, des résidents du quartier Ahuntsic-Cartierville de Montréal découvrent que la ruelle derrière chez eux sera bloquée.</desc>
-		<date>20220116</date>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p254860_b_v9_ad.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00153430&amp;tmsId=EP001534300377</url>
-		<episode-num system="common">S27E16</episode-num>
-		<episode-num system="dd_progid">EP00153430.0377</episode-num>
-		<episode-num system="xmltv_ns">26.15.</episode-num>
-		<previously-shown start="20220116000000" />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115130000 -0500" stop="20220115140000 -0500" channel="I2.45867.zap2it.com">
-		<title lang="en">Enquête</title>
-		<sub-title lang="en">Mort mystérieuse au pays du bitcoin</sub-title>
-		<desc lang="en">Le PDG d&apos;une plateforme d&apos;échange de cryptomonnaies, un Canadien âgé de 30 ans, meurt subitement en Inde lors de son voyage de noces; sur le coup, 169 millions de dollars disparaissent, laissant ses investisseurs sans recours.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p231635_b_v9_sf.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00962221&amp;tmsId=EP009622210282</url>
-		<episode-num system="common">S15E13</episode-num>
-		<episode-num system="dd_progid">EP00962221.0282</episode-num>
-		<episode-num system="xmltv_ns">14.12.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115140000 -0500" stop="20220115150000 -0500" channel="I2.45867.zap2it.com">
-		<title lang="en">Au suivant</title>
-		<desc lang="en">Nos candidats s&apos;élancent devant Stéphane, mais un gros montant peut rapidement nous glisser entre les doigts.</desc>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p13225978_b_v9_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02499778&amp;tmsId=EP024997780126</url>
-		<episode-num system="common">S07E14</episode-num>
-		<episode-num system="dd_progid">EP02499778.0126</episode-num>
-		<episode-num system="xmltv_ns">6.13.</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-	</programme>
+	<channel id="I404.61568.zap2it.com">
+		<display-name>404 HBO1HD</display-name>
+		<display-name>404</display-name>
+		<display-name>HBO1HD</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/61568/s61568_h3_aa.png" />
+	</channel>
 	<programme start="20220115150000 -0500" stop="20220115170000 -0500" channel="I2.45867.zap2it.com">
 		<title lang="en">Inspecteur Lewis</title>
 		<sub-title lang="en">Magnum Opus</sub-title>
@@ -5371,45 +5326,57 @@
 		<previously-shown start="20220118000000" />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I9.58688.zap2it.com">
-		<title lang="en">Infopublicité</title>
+	<programme start="20220122113000 -0500" stop="20220122120000 -0500" channel="I2.45867.zap2it.com">
+		<title lang="en">5 chefs dans ma cuisine</title>
+		<desc lang="en">Marina est entourée chaque semaine de cinq chefs, un par jour, pour cuisiner deux recettes à consommer le soir même ou comme lunchs le lendemain.</desc>
+		<date>20220118</date>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p407792_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00307802&amp;tmsId=SH003078020000</url>
-		<episode-num system="dd_progid">SH00307802.0000</episode-num>
-		<previously-shown />
+		<icon src="https://zap2it.tmsimg.com/assets/p18730339_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03603583&amp;tmsId=EP036035830238</url>
+		<episode-num system="common">S02E81</episode-num>
+		<episode-num system="dd_progid">EP03603583.0238</episode-num>
+		<episode-num system="xmltv_ns">1.80.</episode-num>
+		<previously-shown start="20220118000000" />
 		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
 	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I9.58688.zap2it.com">
-		<title lang="en">Infopublicité</title>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I2.45867.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I2.45867.zap2it.com">
+		<title lang="en">La facture</title>
+		<sub-title lang="en">Des propriétaires de Bolt électriques mécontents; Petit ruisseau, graves problèmes d&apos;érosion</sub-title>
+		<desc lang="en">Des propriétaires de Bolt doivent jongler avec d&apos;importantes contraintes pour éviter que leur voiture prenne feu; des résidents de Saint-Mathieu-de-Beloeil perdent du terrain; un simple ruisseau gruge leur arrière-cour et trouble leur paix d&apos;esprit.</desc>
+		<date>20220119</date>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p407792_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00307802&amp;tmsId=SH003078020000</url>
-		<episode-num system="dd_progid">SH00307802.0000</episode-num>
-		<previously-shown />
+		<icon src="https://zap2it.tmsimg.com/assets/p254860_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00153430&amp;tmsId=EP001534300378</url>
+		<episode-num system="common">S27E17</episode-num>
+		<episode-num system="dd_progid">EP00153430.0378</episode-num>
+		<episode-num system="xmltv_ns">26.16.</episode-num>
+		<previously-shown start="20220119000000" />
 		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
 	</programme>
-	<programme start="20220115130000 -0500" stop="20220115140000 -0500" channel="I9.58688.zap2it.com">
-		<title lang="en">L&apos;amour est dans le pré</title>
-		<sub-title lang="en">Prêts pour l&apos;amour</sub-title>
-		<desc lang="en">Katherine Levac réunit les cinq agriculteurs de la nouvelle saison pour discuter de leur quête amoureuse; en compagnie de leur famille et leurs amis, elle leur rend aussi visite pour connaître l&apos;identité des prétendants et prétendantes.</desc>
+	<programme start="20220122130000 -0500" stop="20220122140000 -0500" channel="I2.45867.zap2it.com">
+		<title lang="en">Enquête</title>
+		<desc lang="en">Magazine d&apos;affaires publiques.</desc>
+		<date>20220121</date>
+		<category lang="en">News</category>
 		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p9040237_b_v13_ag.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01522916&amp;tmsId=EP015229160121</url>
-		<episode-num system="common">S10E01</episode-num>
-		<episode-num system="dd_progid">EP01522916.0121</episode-num>
-		<episode-num system="xmltv_ns">9.0.</episode-num>
-		<previously-shown />
+		<icon src="https://zap2it.tmsimg.com/assets/p231635_b_v9_sf.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00962221&amp;tmsId=EP009622210283</url>
+		<episode-num system="common">S15E14</episode-num>
+		<episode-num system="dd_progid">EP00962221.0283</episode-num>
+		<episode-num system="xmltv_ns">14.13.</episode-num>
+		<previously-shown start="20220121000000" />
 		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
 	</programme>
 	<programme start="20220115140000 -0500" stop="20220115161500 -0500" channel="I9.58688.zap2it.com">
 		<title lang="en">Ligue majeure</title>
@@ -8232,39 +8199,24 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I17.16379.zap2it.com">
-		<title lang="en">TVA nouvelles</title>
-		<desc lang="en">Information régionale, nationale et internationale.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">44</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
-		<episode-num system="dd_progid">SH02911408.0000</episode-num>
-		<new />
+	<programme start="20220122110000 -0500" stop="20220122120000 -0500" channel="I9.58688.zap2it.com">
+		<title lang="en">RPM plus</title>
+		<sub-title lang="en">USIMM</sub-title>
+		<desc lang="en">Samuel se rend chez USIMM, qui fabrique des pièces à partir de matériaux non métalliques, entre autres pour des projets automobiles; Luc-Olivier et Pierre sont également avec lui en studio pour répondre aux questions du public.</desc>
+		<date>20220116</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12117552_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02265487&amp;tmsId=EP022654870212</url>
+		<episode-num system="common">S07E14</episode-num>
+		<episode-num system="dd_progid">EP02265487.0212</episode-num>
+		<episode-num system="xmltv_ns">6.13.</episode-num>
+		<previously-shown start="20220116000000" />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I17.16379.zap2it.com">
-		<title lang="en">180</title>
-		<sub-title lang="en">Marie-Estella Richard</sub-title>
-		<desc lang="en">Sans expérience, une entrepreneure de Hearst ouvre sa première ferme à l&apos;âge de 24 ans; même si le succès n&apos;est pas au rendez-vous, Marie-Estella Richard fonce tête première dans une nouvelle aventure et lance une deuxième entreprise agricole.</desc>
-		<date>20220115</date>
-		<category lang="en">Talk</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p20667144_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04009210&amp;tmsId=EP040092100016</url>
-		<episode-num system="common">S01E16</episode-num>
-		<episode-num system="dd_progid">EP04009210.0016</episode-num>
-		<episode-num system="xmltv_ns">0.15.</episode-num>
-		<new />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20220115130000 -0500" stop="20220115133000 -0500" channel="I17.16379.zap2it.com">
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I9.58688.zap2it.com">
 		<title lang="en">Infopublicité</title>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p407792_b_v13_aa.jpg" />
@@ -8276,15 +8228,30 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115133000 -0500" stop="20220115134500 -0500" channel="I17.16379.zap2it.com">
-		<title lang="en">Les aventures de Tom &amp; Jerry</title>
-		<desc lang="en">Les aventures de la souris Jerry et son ennemi juré, le chat Tom.</desc>
-		<category lang="en">Family</category>
-		<length units="minutes">15</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p186032_b_v9_az.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02219853&amp;tmsId=SH022198530000</url>
-		<episode-num system="dd_progid">SH02219853.0000</episode-num>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I9.58688.zap2it.com">
+		<title lang="en">Infopublicité</title>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p407792_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00307802&amp;tmsId=SH003078020000</url>
+		<episode-num system="dd_progid">SH00307802.0000</episode-num>
 		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122140000 -0500" channel="I9.58688.zap2it.com">
+		<title lang="en">L&apos;amour est dans le pré</title>
+		<sub-title lang="en">Déjà des étincelles</sub-title>
+		<desc lang="en">Katherine Levac accompagne les agriculteurs Denis, Joé, Luka, Marc-Antoine et Marika durant leur rencontre éclair, où ils choisiront les prétendants et les prétendantes qui les rejoindront à la ferme.</desc>
+		<date>20220121</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9040237_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01522916&amp;tmsId=EP015229160122</url>
+		<episode-num system="common">S10E02</episode-num>
+		<episode-num system="dd_progid">EP01522916.0122</episode-num>
+		<episode-num system="xmltv_ns">9.1.</episode-num>
+		<previously-shown start="20220121000000" />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -8322,7 +8289,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -8404,7 +8371,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -8475,7 +8442,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -9105,7 +9072,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -9488,7 +9455,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -9902,7 +9869,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -10297,7 +10264,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -10673,7 +10640,7 @@
 		<title lang="en">TVA nouvelles</title>
 		<desc lang="en">Information régionale, nationale et internationale.</desc>
 		<category lang="en">News</category>
-		<length units="minutes">44</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
 		<episode-num system="dd_progid">SH02911408.0000</episode-num>
@@ -10770,54 +10737,80 @@
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I20.63040.zap2it.com">
-		<title lang="en">Génial!</title>
-		<desc lang="en">Nous visionnons des images vidéo de natures différentes et examinons leur effet sur notre niveau de stress, on présente une poulie aux caractéristiques bien particulières et la boîte contient diverses substances.</desc>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p8255691_b_v9_px.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01317389&amp;tmsId=EP013173890634</url>
-		<episode-num system="common">S12E57</episode-num>
-		<episode-num system="dd_progid">EP01317389.0634</episode-num>
-		<episode-num system="xmltv_ns">11.56.</episode-num>
-		<previously-shown />
+	<programme start="20220122110000 -0500" stop="20220122120000 -0500" channel="I17.16379.zap2it.com">
+		<title lang="en">Viens voir mes rénos</title>
+		<sub-title lang="en">Julie-Karine, Martin et François (Cour ext.)</sub-title>
+		<desc lang="en">On rénove des cours extérieures qui ont vraiment besoin d&apos;une bonne dose d&apos;amour; nos trois concurrents tenteront de récolter les honneurs.</desc>
+		<date>20220122</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17194437_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03280572&amp;tmsId=EP032805720016</url>
+		<episode-num system="common">S02E03</episode-num>
+		<episode-num system="dd_progid">EP03280572.0016</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<new />
+		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I20.63040.zap2it.com">
-		<title lang="en">Génial!</title>
-		<desc lang="en">Nous examinons la science et les mystères de la vielle à roue, un instrument ancien; on se demande si la combustion de différentes essences de bois donne plus ou moins de chaleur et pourquoi.</desc>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I17.16379.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Information régionale, nationale et internationale.</desc>
+		<category lang="en">News</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p8255691_b_v9_px.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01317389&amp;tmsId=EP013173890635</url>
-		<episode-num system="common">S12E58</episode-num>
-		<episode-num system="dd_progid">EP01317389.0635</episode-num>
-		<episode-num system="xmltv_ns">11.57.</episode-num>
-		<previously-shown />
+		<icon src="https://zap2it.tmsimg.com/assets/p15219361_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02911408&amp;tmsId=SH029114080000</url>
+		<episode-num system="dd_progid">SH02911408.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115130000 -0500" stop="20220115140000 -0500" channel="I20.63040.zap2it.com">
-		<title lang="en">Manchots, une histoire de famille</title>
-		<desc lang="en">La remarquable famille des manchots compte aussi bien de minuscules manchots de fées d&apos;à peine 30 centimètres de haut que des empereurs géants; une célébration à couper le souffle d&apos;un oiseau emblématique de l&apos;hémisphère sud.</desc>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p19177995_i_v9_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04151221&amp;tmsId=SH041512210000</url>
-		<episode-num system="dd_progid">SH04151221.0000</episode-num>
-		<previously-shown />
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I17.16379.zap2it.com">
+		<title lang="en">180</title>
+		<sub-title lang="en">Le goût de rire</sub-title>
+		<desc lang="en">Un enseignant de Halifax en Nouvelle-Écosse célèbre tous les jours sa deuxième vie; après un diagnostic de cancer au cerveau, François Weber a décidé de renouer avec une passion qu´il avait délaissée: l´humour et le stand-up.</desc>
+		<date>20220122</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20667144_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04009210&amp;tmsId=EP040092100017</url>
+		<episode-num system="common">S01E17</episode-num>
+		<episode-num system="dd_progid">EP04009210.0017</episode-num>
+		<episode-num system="xmltv_ns">0.16.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
 	</programme>
-	<programme start="20220115140000 -0500" stop="20220115150000 -0500" channel="I20.63040.zap2it.com">
-		<title lang="en">Villes de l&apos;impossible</title>
-		<sub-title lang="en">Sauver Tokyo</sub-title>
-		<desc lang="en">Avec 37,7 millions d&apos;habitants, Tokyo est aujourd&apos;hui la zone urbaine la plus peuplée de la planète; près de 80 % des Japonais vivent en ville et le gigantisme urbain atteint sur l&apos;archipel des niveaux invraisemblables en Europe.</desc>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p16886003_e_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03404120&amp;tmsId=EP034041200002</url>
-		<episode-num system="common">S01E02</episode-num>
-		<episode-num system="dd_progid">EP03404120.0002</episode-num>
-		<episode-num system="xmltv_ns">0.1.</episode-num>
+	<programme start="20220122130000 -0500" stop="20220122133000 -0500" channel="I17.16379.zap2it.com">
+		<title lang="en">Infopublicité</title>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p407792_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00307802&amp;tmsId=SH003078020000</url>
+		<episode-num system="dd_progid">SH00307802.0000</episode-num>
 		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122133000 -0500" stop="20220122134500 -0500" channel="I17.16379.zap2it.com">
+		<title lang="en">Les aventures de Tom &amp; Jerry</title>
+		<desc lang="en">Les aventures de la souris Jerry et son ennemi juré, le chat Tom.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">15</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p186032_b_v9_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02219853&amp;tmsId=SH022198530000</url>
+		<episode-num system="dd_progid">SH02219853.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
 	</programme>
 	<programme start="20220115150000 -0500" stop="20220115160000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Curieux Bégin</title>
@@ -12721,7 +12714,7 @@
 	<programme start="20220117200000 -0500" stop="20220117210000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Les conquérants des pôles</title>
 		<desc lang="en">Témoins des bouleversements sévissant à l&apos;échelle globale, les pôles sont pour les chercheurs des laboratoires naturels majeurs pour l&apos;étude des changements climatiques, mais la conquête de l&apos;Arctique et de l&apos;Antarctique a été longue et périlleuse.</desc>
-		<length units="minutes">57</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p17620771_b_v13_aa.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03659383&amp;tmsId=SH036593830000</url>
 		<episode-num system="dd_progid">SH03659383.0000</episode-num>
@@ -13431,7 +13424,7 @@
 	<programme start="20220118140000 -0500" stop="20220118150000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Les conquérants des pôles</title>
 		<desc lang="en">Témoins des bouleversements sévissant à l&apos;échelle globale, les pôles sont pour les chercheurs des laboratoires naturels majeurs pour l&apos;étude des changements climatiques, mais la conquête de l&apos;Arctique et de l&apos;Antarctique a été longue et périlleuse.</desc>
-		<length units="minutes">57</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p17620771_b_v13_aa.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03659383&amp;tmsId=SH036593830000</url>
 		<episode-num system="dd_progid">SH03659383.0000</episode-num>
@@ -13674,7 +13667,7 @@
 	<programme start="20220118200100 -0500" stop="20220118210000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Homme vs requin</title>
 		<desc lang="en">Jeremiah Sullivan, biologiste de la vie aquatique et inventeur de la combinaison anti-requins, tente de se faire mordre par un requin-tigre afin de tester ses capacités de survie.</desc>
-		<length units="minutes">44</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p16925828_b_v13_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04164572&amp;tmsId=SH041645720000</url>
 		<episode-num system="dd_progid">SH04164572.0000</episode-num>
@@ -13792,7 +13785,7 @@
 	<programme start="20220119041400 -0500" stop="20220119050000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Homme vs requin</title>
 		<desc lang="en">Jeremiah Sullivan, biologiste de la vie aquatique et inventeur de la combinaison anti-requins, tente de se faire mordre par un requin-tigre afin de tester ses capacités de survie.</desc>
-		<length units="minutes">44</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p16925828_b_v13_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04164572&amp;tmsId=SH041645720000</url>
 		<episode-num system="dd_progid">SH04164572.0000</episode-num>
@@ -14353,7 +14346,7 @@
 	<programme start="20220119140000 -0500" stop="20220119150000 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Homme vs requin</title>
 		<desc lang="en">Jeremiah Sullivan, biologiste de la vie aquatique et inventeur de la combinaison anti-requins, tente de se faire mordre par un requin-tigre afin de tester ses capacités de survie.</desc>
-		<length units="minutes">44</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p16925828_b_v13_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04164572&amp;tmsId=SH041645720000</url>
 		<episode-num system="dd_progid">SH04164572.0000</episode-num>
@@ -14677,7 +14670,7 @@
 	<programme start="20220120010000 -0500" stop="20220120015700 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Les conquérants des pôles</title>
 		<desc lang="en">Témoins des bouleversements sévissant à l&apos;échelle globale, les pôles sont pour les chercheurs des laboratoires naturels majeurs pour l&apos;étude des changements climatiques, mais la conquête de l&apos;Arctique et de l&apos;Antarctique a été longue et périlleuse.</desc>
-		<length units="minutes">57</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p17620771_b_v13_aa.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03659383&amp;tmsId=SH036593830000</url>
 		<episode-num system="dd_progid">SH03659383.0000</episode-num>
@@ -15720,7 +15713,7 @@
 	<programme start="20220121034300 -0500" stop="20220121042700 -0500" channel="I20.63040.zap2it.com">
 		<title lang="en">Homme vs requin</title>
 		<desc lang="en">Jeremiah Sullivan, biologiste de la vie aquatique et inventeur de la combinaison anti-requins, tente de se faire mordre par un requin-tigre afin de tester ses capacités de survie.</desc>
-		<length units="minutes">44</length>
+		<length units="minutes">60</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p16925828_b_v13_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04164572&amp;tmsId=SH041645720000</url>
 		<episode-num system="dd_progid">SH04164572.0000</episode-num>
@@ -17222,31 +17215,57 @@
 			<value>8+</value>
 		</rating>
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115130000 -0500" channel="I117.76926.zap2it.com">
-		<title lang="en">Magnum</title>
-		<sub-title lang="en">Sans issue</sub-title>
-		<desc lang="en">Magnum, Higgins et TC tentent d&apos;obtenir une carte verte à Higgins; tandis qu&apos;ils s&apos;apprêtent à quitter le bâtiment fédéral bredouille, ils découvrent que des hommes armés ont pris des gens en otage et décident de passer à l&apos;action.</desc>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p19115717_e_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03194434&amp;tmsId=EP031944340046</url>
-		<episode-num system="common">S03E03</episode-num>
-		<episode-num system="dd_progid">EP03194434.0046</episode-num>
-		<episode-num system="xmltv_ns">2.2.</episode-num>
+	<programme start="20220122115300 -0500" stop="20220122120000 -0500" channel="I20.63040.zap2it.com">
+		<title lang="en">Les incroyables aventures de Morph</title>
+		<desc lang="en">Morph et son vilain jumeau Chas vivent toutes sortes d&apos;aventures et rencontrent de nombreux compagnons étranges.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">7</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12524966_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04103350&amp;tmsId=SH041033500000</url>
+		<episode-num system="dd_progid">SH04103350.0000</episode-num>
 		<previously-shown />
-		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
 	</programme>
-	<programme start="20220115130000 -0500" stop="20220115143000 -0500" channel="I117.76926.zap2it.com">
-		<title lang="en">Columbo</title>
-		<sub-title lang="en">Les surdoués</sub-title>
-		<desc lang="en">Columbo enquête sur un meurtre commis dans un cercle réservé à des gens au fort quotient intellectuel.</desc>
-		<length units="minutes">90</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p1058585_e_v9_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00041101&amp;tmsId=EP000411010101</url>
-		<episode-num system="common">S06E03</episode-num>
-		<episode-num system="dd_progid">EP00041101.0101</episode-num>
-		<episode-num system="xmltv_ns">5.2.</episode-num>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I20.63040.zap2it.com">
+		<title lang="en">Génial!</title>
+		<desc lang="en">Nous examinons l&apos;influence du mouvement sur le poids perçu des objets en laissant tomber une chaîne sur une balance, on se laisse berner par une prodigieuse illusion vidéo avec des cubes et la boîte contient des objets d&apos;origine animale.</desc>
+		<date>20220118</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8255691_b_v9_px.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01317389&amp;tmsId=EP013173890638</url>
+		<episode-num system="common">S12E61</episode-num>
+		<episode-num system="dd_progid">EP01317389.0638</episode-num>
+		<episode-num system="xmltv_ns">11.60.</episode-num>
+		<previously-shown start="20220118000000" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I20.63040.zap2it.com">
+		<title lang="en">Génial!</title>
+		<desc lang="en">De nos jours, on sait que la lutte professionnelle tient plus du spectacle que du combat: les athlètes y utilisent la science pour éviter les blessures; on présente un cure-dents à la force étonnante et l&apos;on tente de discerner le vrai du faux.</desc>
+		<date>20220119</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8255691_b_v9_px.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01317389&amp;tmsId=EP013173890639</url>
+		<episode-num system="common">S12E62</episode-num>
+		<episode-num system="dd_progid">EP01317389.0639</episode-num>
+		<episode-num system="xmltv_ns">11.61.</episode-num>
+		<previously-shown start="20220119000000" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122140000 -0500" channel="I20.63040.zap2it.com">
+		<title lang="en">Homme vs requin</title>
+		<desc lang="en">Jeremiah Sullivan, biologiste de la vie aquatique et inventeur de la combinaison anti-requins, tente de se faire mordre par un requin-tigre afin de tester ses capacités de survie.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16925828_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04164572&amp;tmsId=SH041645720000</url>
+		<episode-num system="dd_progid">SH04164572.0000</episode-num>
 		<previously-shown />
-		<subtitles type="teletext" />
 	</programme>
 	<programme start="20220115143000 -0500" stop="20220115163000 -0500" channel="I117.76926.zap2it.com">
 		<title lang="en">Shérif, fais-moi peur</title>
@@ -19568,66 +19587,43 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123100 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">Le téléjournal midi</title>
-		<desc lang="en">Nouvelles nationales et internationales.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">29</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
-		<episode-num system="dd_progid">SH02082981.0000</episode-num>
-		<new />
+	<programme start="20220122110000 -0500" stop="20220122120000 -0500" channel="I117.76926.zap2it.com">
+		<title lang="en">MacGyver</title>
+		<sub-title lang="en">Coup de maître</sub-title>
+		<desc lang="en">L&apos;ancienne protégée de Taylor, qui défendait une arme biologique, a été tuée; Mac et son équipe font appel à une cambrioleuse notoire afin qu&apos;elle forme Desi; cette dernière devra récupérer l&apos;arme avant qu&apos;elle ne soit vendue à des terroristes.</desc>
+		<date>20220118</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19115643_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02858486&amp;tmsId=EP028584860085</url>
+		<episode-num system="common">S05E02</episode-num>
+		<episode-num system="dd_progid">EP02858486.0085</episode-num>
+		<episode-num system="xmltv_ns">4.1.</episode-num>
+		<previously-shown start="20220118000000" />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115123100 -0500" stop="20220115130000 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">Le téléjournal midi</title>
-		<desc lang="en">Nouvelles nationales et internationales.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">29</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
-		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+	<programme start="20220122120000 -0500" stop="20220122130000 -0500" channel="I117.76926.zap2it.com">
+		<title lang="en">Magnum</title>
+		<sub-title lang="en">Pris au piège</sub-title>
+		<desc lang="en">Magnum et ses amis se réfugient dans le bar de Rick lorsqu&apos;un ouragan s&apos;abat sur l&apos;île; ils découvrent que deux tueurs armés ont également trouvé refuge dans le bar; par ailleurs, Rick ne sait pas comment annoncer à TC que le bar n&apos;est plus assuré.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19308553_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03194434&amp;tmsId=EP031944340048</url>
+		<episode-num system="common">S03E05</episode-num>
+		<episode-num system="dd_progid">EP03194434.0048</episode-num>
+		<episode-num system="xmltv_ns">2.4.</episode-num>
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115130000 -0500" stop="20220115133000 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">Le national hebdo</title>
-		<desc lang="en">Les reportages les plus significatifs diffusés dans les éditions régionales du &quot;Téléjournal.&quot;</desc>
-		<category lang="en">News</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p425905_b_v13_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00959280&amp;tmsId=SH009592800000</url>
-		<episode-num system="dd_progid">SH00959280.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115133000 -0500" stop="20220115140000 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">L&apos;info</title>
-		<desc lang="en">L&apos;info, c&apos;est l&apos;information en continu, l&apos;actualité saisit en plein développement avec le concours les journalistes sur le terrain et des entrevues avec les acteurs ou observateurs avertis des événements.</desc>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p14283237_b_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02724220&amp;tmsId=SH027242200000</url>
-		<episode-num system="dd_progid">SH02724220.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115140000 -0500" stop="20220115143000 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">L&apos;info</title>
-		<desc lang="en">L&apos;info, c&apos;est l&apos;information en continu, l&apos;actualité saisit en plein développement avec le concours les journalistes sur le terrain et des entrevues avec les acteurs ou observateurs avertis des événements.</desc>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p14283237_b_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02724220&amp;tmsId=SH027242200000</url>
-		<episode-num system="dd_progid">SH02724220.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-	</programme>
-	<programme start="20220115143000 -0500" stop="20220115150000 -0500" channel="I210.60327.zap2it.com">
-		<title lang="en">L&apos;info</title>
-		<desc lang="en">L&apos;info, c&apos;est l&apos;information en continu, l&apos;actualité saisit en plein développement avec le concours les journalistes sur le terrain et des entrevues avec les acteurs ou observateurs avertis des événements.</desc>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p14283237_b_v9_aa.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02724220&amp;tmsId=SH027242200000</url>
-		<episode-num system="dd_progid">SH02724220.0000</episode-num>
+	<programme start="20220122130000 -0500" stop="20220122143000 -0500" channel="I117.76926.zap2it.com">
+		<title lang="en">Columbo</title>
+		<sub-title lang="en">Immunité diplomatique</sub-title>
+		<desc lang="en">Columbo enquête sur un meurtre commis dans le consulat d&apos;un pays arabe.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p1058579_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00041101&amp;tmsId=EP000411010011</url>
+		<episode-num system="common">S05E02</episode-num>
+		<episode-num system="dd_progid">EP00041101.0011</episode-num>
+		<episode-num system="xmltv_ns">4.1.</episode-num>
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
@@ -21854,67 +21850,71 @@
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I211.67231.zap2it.com">
-		<title lang="en">TVA nouvelles</title>
-		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+	<programme start="20220122113000 -0500" stop="20220122120000 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">Les décrypteurs</title>
+		<desc lang="en">Dans l&apos;espace très démocratique des réseaux sociaux, il n&apos;est pas toujours facile de démêler le vrai du faux. L&apos;émission vise à donner aux citoyens des outils pour lire à travers les arcanes de la désinformation.</desc>
+		<date>20220122</date>
 		<category lang="en">News</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
-		<episode-num system="dd_progid">SH01635483.0000</episode-num>
-		<new />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I211.67231.zap2it.com">
-		<title lang="en">TVA nouvelles</title>
-		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
-		<episode-num system="dd_progid">SH01635483.0000</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20220115130000 -0500" stop="20220115140000 -0500" channel="I211.67231.zap2it.com">
-		<title lang="en">Denis Lévesque</title>
-		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
-		<episode-num system="dd_progid">SH00862695.0000</episode-num>
-		<previously-shown />
-		<subtitles type="teletext" />
-		<rating>
-			<value>G</value>
-		</rating>
-	</programme>
-	<programme start="20220115140000 -0500" stop="20220115143000 -0500" channel="I211.67231.zap2it.com">
-		<title lang="en">LCN maintenant</title>
-		<desc lang="en">Les événements marquants de la journée.</desc>
-		<category lang="en">News</category>
-		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v9_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
-		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p17363065_b_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03311509&amp;tmsId=EP033115090091</url>
+		<episode-num system="common">S03E15</episode-num>
+		<episode-num system="dd_progid">EP03311509.0091</episode-num>
+		<episode-num system="xmltv_ns">2.14.</episode-num>
 		<new />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115143000 -0500" stop="20220115150000 -0500" channel="I211.67231.zap2it.com">
-		<title lang="en">LCN maintenant</title>
-		<desc lang="en">Les événements marquants de la journée.</desc>
+	<programme start="20220122120000 -0500" stop="20220122123100 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122123100 -0500" stop="20220122130000 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">Le téléjournal midi</title>
+		<desc lang="en">Nouvelles nationales et internationales.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11347473_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02082981&amp;tmsId=SH020829810000</url>
+		<episode-num system="dd_progid">SH02082981.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122133000 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">Le national hebdo</title>
+		<desc lang="en">Les reportages les plus significatifs diffusés dans les éditions régionales du &quot;Téléjournal.&quot;</desc>
 		<category lang="en">News</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v9_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
-		<episode-num system="dd_progid">SH01164269.0000</episode-num>
-		<previously-shown />
+		<icon src="https://zap2it.tmsimg.com/assets/p425905_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00959280&amp;tmsId=SH009592800000</url>
+		<episode-num system="dd_progid">SH00959280.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122133000 -0500" stop="20220122140000 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">L&apos;info</title>
+		<desc lang="en">L&apos;info, c&apos;est l&apos;information en continu, l&apos;actualité saisit en plein développement avec le concours les journalistes sur le terrain et des entrevues avec les acteurs ou observateurs avertis des événements.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14283237_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02724220&amp;tmsId=SH027242200000</url>
+		<episode-num system="dd_progid">SH02724220.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122140000 -0500" stop="20220122143000 -0500" channel="I210.60327.zap2it.com">
+		<title lang="en">L&apos;info</title>
+		<desc lang="en">L&apos;info, c&apos;est l&apos;information en continu, l&apos;actualité saisit en plein développement avec le concours les journalistes sur le terrain et des entrevues avec les acteurs ou observateurs avertis des événements.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14283237_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02724220&amp;tmsId=SH027242200000</url>
+		<episode-num system="dd_progid">SH02724220.0000</episode-num>
+		<new />
 		<subtitles type="teletext" />
 	</programme>
 	<programme start="20220115150000 -0500" stop="20220115153000 -0500" channel="I211.67231.zap2it.com">
@@ -22014,7 +22014,7 @@
 	<programme start="20220115190000 -0500" stop="20220115200000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -22319,7 +22319,7 @@
 	<programme start="20220116130000 -0500" stop="20220116140000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -22448,7 +22448,7 @@
 	<programme start="20220116190000 -0500" stop="20220116200000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -22799,7 +22799,7 @@
 	<programme start="20220117200000 -0500" stop="20220117210000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -22851,7 +22851,7 @@
 	<programme start="20220117223500 -0500" stop="20220117233500 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23143,7 +23143,7 @@
 	<programme start="20220118200000 -0500" stop="20220118210000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23195,7 +23195,7 @@
 	<programme start="20220118223500 -0500" stop="20220118233500 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23487,7 +23487,7 @@
 	<programme start="20220119200000 -0500" stop="20220119210000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23539,7 +23539,7 @@
 	<programme start="20220119223500 -0500" stop="20220119233500 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23831,7 +23831,7 @@
 	<programme start="20220120200000 -0500" stop="20220120210000 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -23883,7 +23883,7 @@
 	<programme start="20220120223500 -0500" stop="20220120233500 -0500" channel="I211.67231.zap2it.com">
 		<title lang="en">Denis Lévesque</title>
 		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
-		<length units="minutes">60</length>
+		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
 		<episode-num system="dd_progid">SH00862695.0000</episode-num>
@@ -24446,34 +24446,81 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115120000 -0500" stop="20220115123000 -0500" channel="I225.58592.zap2it.com">
-		<title lang="en">Hockey le magazine</title>
-		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
-		<date>20220115</date>
+	<programme start="20220122110000 -0500" stop="20220122120000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">Dossiers en cours</title>
+		<desc lang="en">Revue de l&apos;actualité judiciaire de la semaine avec Jean-François Guérin.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21417518_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04168238&amp;tmsId=SH041682380000</url>
+		<episode-num system="dd_progid">SH04168238.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440076</url>
-		<episode-num system="common">S07E12</episode-num>
-		<episode-num system="dd_progid">EP02309144.0076</episode-num>
-		<episode-num system="xmltv_ns">6.11.</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
 		<new />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
 		</rating>
 	</programme>
-	<programme start="20220115123000 -0500" stop="20220115130000 -0500" channel="I225.58592.zap2it.com">
-		<title lang="en">Sports 30</title>
-		<desc lang="en">Les plus récents dénouements dans le monde du sport. On analyse en profondeur les résultats des dernières 24 heures dans toutes les disciplines. Hockey, football, baseball, Formule 1, rien n&apos;échappe à nos animateurs.</desc>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">TVA nouvelles</title>
+		<desc lang="en">Bulletin complet d&apos;information sur les principaux événements survenus au cours du week-end.</desc>
+		<category lang="en">News</category>
 		<length units="minutes">30</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p17960825_b_v13_ab.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168398&amp;tmsId=SH001683980000</url>
-		<episode-num system="dd_progid">SH00168398.0000</episode-num>
+		<icon src="https://zap2it.tmsimg.com/assets/p9546357_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01635483&amp;tmsId=SH016354830000</url>
+		<episode-num system="dd_progid">SH01635483.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122133000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">J.E.</title>
+		<desc lang="en">Des reportages et des enquêtes journalistiques sur des sujets inexplorés et insoupçonnés.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p744591_b_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00082067&amp;tmsId=SH000820670000</url>
+		<episode-num system="dd_progid">SH00082067.0000</episode-num>
 		<new />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
 		</rating>
+	</programme>
+	<programme start="20220122133000 -0500" stop="20220122140000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">Denis Lévesque</title>
+		<desc lang="en">Le journaliste Denis Lévesque reçoit sur son plateau les acteurs de l&apos;actualité.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p365392_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00862695&amp;tmsId=SH008626950000</url>
+		<episode-num system="dd_progid">SH00862695.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122140000 -0500" stop="20220122143000 -0500" channel="I211.67231.zap2it.com">
+		<title lang="en">LCN maintenant</title>
+		<desc lang="en">Les événements marquants de la journée.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3583821_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01164269&amp;tmsId=SH011642690000</url>
+		<episode-num system="dd_progid">SH01164269.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
 	</programme>
 	<programme start="20220115130000 -0500" stop="20220115153000 -0500" channel="I225.58592.zap2it.com">
 		<title lang="en">Hockey OHL</title>
@@ -24809,14 +24856,13 @@
 	<programme start="20220116093000 -0500" stop="20220116100000 -0500" channel="I225.58592.zap2it.com">
 		<title lang="en">Hockey le magazine</title>
 		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
-		<date>20220115</date>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440076</url>
 		<episode-num system="common">S07E12</episode-num>
 		<episode-num system="dd_progid">EP02309144.0076</episode-num>
 		<episode-num system="xmltv_ns">6.11.</episode-num>
-		<previously-shown start="20220115000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -25082,14 +25128,13 @@
 	<programme start="20220117143000 -0500" stop="20220117150000 -0500" channel="I225.58592.zap2it.com">
 		<title lang="en">Hockey le magazine</title>
 		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
-		<date>20220115</date>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440076</url>
 		<episode-num system="common">S07E12</episode-num>
 		<episode-num system="dd_progid">EP02309144.0076</episode-num>
 		<episode-num system="xmltv_ns">6.11.</episode-num>
-		<previously-shown start="20220115000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -25592,14 +25637,13 @@
 	<programme start="20220119190000 -0500" stop="20220119193000 -0500" channel="I225.58592.zap2it.com">
 		<title lang="en">Hockey le magazine</title>
 		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
-		<date>20220115</date>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440076</url>
 		<episode-num system="common">S07E12</episode-num>
 		<episode-num system="dd_progid">EP02309144.0076</episode-num>
 		<episode-num system="xmltv_ns">6.11.</episode-num>
-		<previously-shown start="20220115000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -25956,14 +26000,13 @@
 	<programme start="20220121160000 -0500" stop="20220121163000 -0500" channel="I225.58592.zap2it.com">
 		<title lang="en">Hockey le magazine</title>
 		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
-		<date>20220115</date>
 		<length units="minutes">30</length>
 		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
 		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440076</url>
 		<episode-num system="common">S07E12</episode-num>
 		<episode-num system="dd_progid">EP02309144.0076</episode-num>
 		<episode-num system="xmltv_ns">6.11.</episode-num>
-		<previously-shown start="20220115000000" />
+		<previously-shown />
 		<subtitles type="teletext" />
 		<rating>
 			<value>G</value>
@@ -26162,17 +26205,66 @@
 		<previously-shown />
 		<subtitles type="teletext" />
 	</programme>
-	<programme start="20220115113000 -0500" stop="20220115140000 -0500" channel="I233.73142.zap2it.com">
-		<title lang="en">Hockey LNH</title>
-		<sub-title lang="en">Stars de Dallas c. Panthers de la Floride</sub-title>
-		<desc lang="en">Les Stars de Dallas affrontent les Panthers de la Floride. En provenance du FLA Live Arena, à Sunrise, en Floride.</desc>
-		<category lang="en">Sports</category>
-		<length units="minutes">150</length>
-		<icon src="https://zap2it.tmsimg.com/assets/p20434533_tb2_v13_aj.jpg" />
-		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01804955&amp;tmsId=EP018049553319</url>
-		<episode-num system="dd_progid">EP01804955.3319</episode-num>
-		<previously-shown />
+	<programme start="20220122113000 -0500" stop="20220122120000 -0500" channel="I225.58592.zap2it.com">
+		<title lang="en">Destination ski</title>
+		<desc lang="en">Les destinations ski-internationales, les chroniques sur l&apos;équipement et les entrevues.</desc>
+		<date>20220122</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11307903_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02069447&amp;tmsId=EP020694470040</url>
+		<episode-num system="common">S07E07</episode-num>
+		<episode-num system="dd_progid">EP02069447.0040</episode-num>
+		<episode-num system="xmltv_ns">6.6.</episode-num>
+		<new />
 		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I225.58592.zap2it.com">
+		<title lang="en">Hockey le magazine</title>
+		<desc lang="en">L&apos;émission traite principalement de hockey mineur et des Québécois qui évoluent aux quatre coins de la Ligue nationale.</desc>
+		<date>20220122</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12340524_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02309144&amp;tmsId=EP023091440077</url>
+		<episode-num system="common">S07E13</episode-num>
+		<episode-num system="dd_progid">EP02309144.0077</episode-num>
+		<episode-num system="xmltv_ns">6.12.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I225.58592.zap2it.com">
+		<title lang="en">Passion autos</title>
+		<desc lang="en">Émission sur l&apos;actualité automobile qui a pour but d&apos;informer et divertir les amateurs d&apos;automobiles et partager les connaissances sur la mécanique générale.</desc>
+		<date>20220122</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17297265_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03298814&amp;tmsId=EP032988140041</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP03298814.0041</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122133000 -0500" channel="I225.58592.zap2it.com">
+		<title lang="en">Sports 30</title>
+		<desc lang="en">Les plus récents dénouements dans le monde du sport. On analyse en profondeur les résultats des dernières 24 heures dans toutes les disciplines. Hockey, football, baseball, Formule 1, rien n&apos;échappe à nos animateurs.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17960825_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00168398&amp;tmsId=SH001683980000</url>
+		<episode-num system="dd_progid">SH00168398.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
 	</programme>
 	<programme start="20220115140000 -0500" stop="20220115163000 -0500" channel="I233.73142.zap2it.com">
 		<title lang="en">Hockey LNH</title>
@@ -28368,6 +28460,1821 @@
 		<subtitles type="teletext" />
 		<rating>
 			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122113000 -0500" stop="20220122120000 -0500" channel="I233.73142.zap2it.com">
+		<title lang="en">Motoneiges.tv</title>
+		<desc lang="en">On découvre les plus récentes motoneiges, les dernières innovations en matière de technologie et d&apos;accessoires en plus de visiter les plus importants événements de la saison hivernale.</desc>
+		<date>20220122</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15021380_b_v4_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02866145&amp;tmsId=EP028661450042</url>
+		<episode-num system="common">S05E02</episode-num>
+		<episode-num system="dd_progid">EP02866145.0042</episode-num>
+		<episode-num system="xmltv_ns">4.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122120000 -0500" stop="20220122123000 -0500" channel="I233.73142.zap2it.com">
+		<title lang="en">Snowride</title>
+		<desc lang="en">Des adeptes de motoneige sont à la quête des plus merveilleuses places pour pratiquer le sport. Que ce soit sur piste ou hors-piste, les aventures restent mémorables.</desc>
+		<date>20220122</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21166200_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04116497&amp;tmsId=EP041164970003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04116497.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122123000 -0500" stop="20220122130000 -0500" channel="I233.73142.zap2it.com">
+		<title lang="en">Gages-tu?</title>
+		<desc lang="en">Une émission de paris sportifs.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20733368_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04034320&amp;tmsId=SH040343200000</url>
+		<episode-num system="dd_progid">SH04034320.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220122130000 -0500" stop="20220122133000 -0500" channel="I233.73142.zap2it.com">
+		<title lang="en">Au sommet</title>
+		<desc lang="en">L&apos;aventure d&apos;une équipe de passionnés de planche à neige sur diverses montagnes du Canada.</desc>
+		<date>20220116</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21227029_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04127222&amp;tmsId=EP041272220002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04127222.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown start="20220116000000" />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122133000 -0500" stop="20220122143000 -0500" channel="I233.73142.zap2it.com">
+		<title lang="en">Lutte WWE: Raw</title>
+		<desc lang="en">Matchs de lutte professionnelle.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p434327_b_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00176358&amp;tmsId=SH001763580000</url>
+		<episode-num system="dd_progid">SH00176358.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>8+</value>
+		</rating>
+	</programme>
+	<programme start="20220115142000 -0500" stop="20220115161500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Bee Gees: How Can You Mend a Broken Heart</title>
+		<desc lang="en">Brothers Barry, Maurice and Robin Gibb find early fame in the 1960s and go on to write over 1,000 songs, including 20 No. 1 hits. This film follows the group&apos;s meteoric rise as they navigate the complexities of working so intimately alongside family.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19036691_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01540545&amp;tmsId=MV015405450000</url>
+		<episode-num system="dd_progid">MV01540545.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220115161500 -0500" stop="20220115175500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am MLK Jr.</title>
+		<desc lang="en">A documentary on the life and legacy of legendary statesman Dr. Martin Luther King Jr., telling the story of an American icon from an engaging contemporary perspective structured around seminal events of the Civil Rights Movement.</desc>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15100530_b_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02886911&amp;tmsId=SH028869110000</url>
+		<episode-num system="dd_progid">SH02886911.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220115175500 -0500" stop="20220115193500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Ernie &amp; Joe: Crisis Cops</title>
+		<desc lang="en">The journey of two police officers with the San Antonio Texas Police Department as they divert people away from jail and into mental health treatment.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17217769_v_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01312306&amp;tmsId=MV013123060000</url>
+		<episode-num system="dd_progid">MV01312306.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220115193500 -0500" stop="20220115210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Between the World and Me</title>
+		<desc lang="en">Elements of a stage adaptation of the book by Ta-Nehisi Coates, embodying the author&apos;s letter to his 15-year-old son on coming of age in Black America.</desc>
+		<length units="minutes">85</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18912566_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03640397&amp;tmsId=SH036403970000</url>
+		<episode-num system="dd_progid">SH03640397.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220115210000 -0500" stop="20220115214500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">And Just Like That...</title>
+		<sub-title lang="en">Diwali</sub-title>
+		<desc lang="en">Carrie&apos;s giant leap for her future self helps her embrace the past, while Miranda makes a confession to a shocked Charlotte.</desc>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21009612_e_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04079879&amp;tmsId=EP040798790006</url>
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="dd_progid">EP04079879.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220115214500 -0500" stop="20220115223000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">And Just Like That...</title>
+		<sub-title lang="en">Sex and the Widow</sub-title>
+		<desc lang="en">Carrie&apos;s publisher tasks her with injecting some hope into her new book; Miranda tries to rekindle a spark with Steve; Charlotte bristles when Harry imposes on her sacred space -- tennis.</desc>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21009613_e_v9_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04079879&amp;tmsId=EP040798790007</url>
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="dd_progid">EP04079879.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220115223000 -0500" stop="20220115232000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Peacemaker</title>
+		<sub-title lang="en">A Whole New Whirled</sub-title>
+		<desc lang="en">After making a miraculous recovery, Peacemaker returns home only to discover that his freedom comes at a price.</desc>
+		<length units="minutes">50</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20861909_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04062139&amp;tmsId=EP040621390001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04062139.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220115232000 -0500" stop="20220116000500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Peacemaker</title>
+		<sub-title lang="en">Best Friends, for Never</sub-title>
+		<desc lang="en">After Peacemaker&apos;s hazardous escape, tension and mistrust build within the team; as Peacemaker grapples with his new assignment, he receives a surprise visitor.</desc>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20861915_e_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04062139&amp;tmsId=EP040621390002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP04062139.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220116000500 -0500" stop="20220116005000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Peacemaker</title>
+		<sub-title lang="en">Better Goff Dead</sub-title>
+		<desc lang="en">On their first official mission to assassinate suspected &quot;butterflies,&quot; Economos and Murn bond, and Peacemaker and Harcourt reach an understanding; the whole job goes sideways with Judomaster&apos;s arrival.</desc>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20861916_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04062139&amp;tmsId=EP040621390003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04062139.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220116005000 -0500" stop="20220116024500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Deadwood: The Movie</title>
+		<desc lang="en">Saloon owner Al Swearengen clashes with Sheriff Seth Bullock as the residents of Deadwood celebrate South Dakota&apos;s statehood in 1889.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16728745_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01245405&amp;tmsId=MV012454050000</url>
+		<episode-num system="dd_progid">MV01245405.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116024500 -0500" stop="20220116042500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Special Relationship</title>
+		<desc lang="en">British Prime Minister Tony Blair (Michael Sheen) forges a loyal friendship with President Bill Clinton (Dennis Quaid).</desc>
+		<date>2010</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8069744_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00277933&amp;tmsId=MV002779330000</url>
+		<episode-num system="dd_progid">MV00277933.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116042500 -0500" stop="20220116060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Jump, Darling</title>
+		<desc lang="en">A rookie drag queen reeling from a breakup escapes to the country, where he finds his grandmother in steep decline yet desperate to avoid the local nursing home.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19547296_p_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01595620&amp;tmsId=MV015956200000</url>
+		<episode-num system="dd_progid">MV01595620.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116060000 -0500" stop="20220116074000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Life According to Sam</title>
+		<desc lang="en">After they learn that their only child has progeria, Drs. Leslie Gordon and Scott Berns set up a foundation and oversee the development of an experimental drug to treat the rare disorder.</desc>
+		<date>2013</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9719231_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00457340&amp;tmsId=MV004573400000</url>
+		<episode-num system="dd_progid">MV00457340.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220116074000 -0500" stop="20220116091500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Alfred Hitchcock</title>
+		<desc lang="en">Interviews and archival footage weave together to tell the story of the Master of Suspense, one of the most influential and studied filmmakers in the history of cinema.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19875463_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03849386&amp;tmsId=SH038493860000</url>
+		<episode-num system="dd_progid">SH03849386.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220116091500 -0500" stop="20220116105000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Art of Political Murder</title>
+		<desc lang="en">An investigation into the truth behind the murder of Guatemalan Bishop Juan Gerardi, who was killed in 1998 just days after trying to hold the country&apos;s military accountable for the atrocities committed during its civil war.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17592233_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01337542&amp;tmsId=MV013375420000</url>
+		<episode-num system="dd_progid">MV01337542.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116105000 -0500" stop="20220116122500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Totem</title>
+		<desc lang="en">A teen uses a totem to control a supernatural presence in her house.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14569272_p_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01039044&amp;tmsId=MV010390440000</url>
+		<episode-num system="dd_progid">MV01039044.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116122500 -0500" stop="20220116142000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Walkout</title>
+		<desc lang="en">A teacher (Michael Peña) becomes a mentor to Chicano high-school students protesting injustices in public schools in 1968.</desc>
+		<date>2006</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p160857_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00173330&amp;tmsId=MV001733300000</url>
+		<episode-num system="dd_progid">MV00173330.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116142000 -0500" stop="20220116155000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Day Sports Stood Still</title>
+		<desc lang="en">Documenting the previously unprecedented sports shutdown in March 2020 in the face of the COVID-19 pandemic and the events that followed, including athlete interviews and insights from team owners and NBA staff.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19420569_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03757770&amp;tmsId=SH037577700000</url>
+		<episode-num system="dd_progid">SH03757770.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116155000 -0500" stop="20220116175000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Agents of Chaos</title>
+		<sub-title lang="en">Part 1</sub-title>
+		<desc lang="en">Filmmaker Alex Gibney examines the circumstances surrounding Russia&apos;s interference in the 2016 U.S. presidential election.</desc>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18692039_e_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03595661&amp;tmsId=EP035956610001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP03595661.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116175000 -0500" stop="20220116195500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Agents of Chaos</title>
+		<sub-title lang="en">Part 2</sub-title>
+		<desc lang="en">Filmmaker Alex Gibney examines the circumstances surrounding Russia&apos;s interference in the 2016 U.S. presidential election.</desc>
+		<length units="minutes">125</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18692040_e_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03595661&amp;tmsId=EP035956610002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03595661.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116195500 -0500" stop="20220116210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Finding the Way Home</title>
+		<desc lang="en">The stories of eight children who have been reunited with family members or placed in loving foster homes after being exposed to the distressing conditions prevalent in orphanages and institutions around the world.</desc>
+		<length units="minutes">70</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17582072_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03357049&amp;tmsId=SH033570490000</url>
+		<episode-num system="dd_progid">SH03357049.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116210000 -0500" stop="20220116220000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Euphoria</title>
+		<sub-title lang="en">Out of Touch</sub-title>
+		<desc lang="en">A group of high school students navigates drugs, sex, identity, trauma, social media, love and friendship.</desc>
+		<date>20220117</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084307_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03201830&amp;tmsId=EP032018300013</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03201830.0013</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220116220000 -0500" stop="20220116223000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Righteous Gemstones</title>
+		<sub-title lang="en">For He Is a Liar and the Father of Lies</sub-title>
+		<desc lang="en">The Gemstone siblings seek to pull back the curtain on their father&apos;s past; Eli shares a hard truth, and Kelvin grapples with an unruly God Squad.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084372_e_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03221259&amp;tmsId=EP032212590012</url>
+		<episode-num system="common">S02E03</episode-num>
+		<episode-num system="dd_progid">EP03221259.0012</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220116223000 -0500" stop="20220116230000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Somebody Somewhere</title>
+		<sub-title lang="en">BFD</sub-title>
+		<desc lang="en">Sam, a true Kansan on the surface, struggles to fit her hometown&apos;s mold; grappling with loss and acceptance, singing is her saving grace and leads her on a journey to discover herself and a community of outsiders who don&apos;t fit in and don&apos;t give up.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21140291_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04114415&amp;tmsId=EP041144150001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04114415.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<premiere>Premiere</premiere>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220116230000 -0500" stop="20220117000000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Euphoria</title>
+		<sub-title lang="en">Trouble Don&apos;t Last Always</sub-title>
+		<desc lang="en">Rue celebrates Christmas in the aftermath of being left by Jules at the train station and relapsing.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18988684_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03201830&amp;tmsId=EP032018300009</url>
+		<episode-num system="dd_progid">EP03201830.0009</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220117000000 -0500" stop="20220117010000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Euphoria</title>
+		<sub-title lang="en">Out of Touch</sub-title>
+		<desc lang="en">A group of high school students navigates drugs, sex, identity, trauma, social media, love and friendship.</desc>
+		<date>20220117</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084307_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03201830&amp;tmsId=EP032018300013</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03201830.0013</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220117010000 -0500" stop="20220117013000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Righteous Gemstones</title>
+		<sub-title lang="en">For He Is a Liar and the Father of Lies</sub-title>
+		<desc lang="en">The Gemstone siblings seek to pull back the curtain on their father&apos;s past; Eli shares a hard truth, and Kelvin grapples with an unruly God Squad.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084372_e_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03221259&amp;tmsId=EP032212590012</url>
+		<episode-num system="common">S02E03</episode-num>
+		<episode-num system="dd_progid">EP03221259.0012</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220117013000 -0500" stop="20220117020000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Somebody Somewhere</title>
+		<sub-title lang="en">BFD</sub-title>
+		<desc lang="en">Sam, a true Kansan on the surface, struggles to fit her hometown&apos;s mold; grappling with loss and acceptance, singing is her saving grace and leads her on a journey to discover herself and a community of outsiders who don&apos;t fit in and don&apos;t give up.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21140291_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04114415&amp;tmsId=EP041144150001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04114415.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117020000 -0500" stop="20220117022500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Painting With John</title>
+		<sub-title lang="en">Elephant</sub-title>
+		<desc lang="en">John recounts how the obsession he and his brother shared for John Coltrane&apos;s &quot;Live at Birdland&quot; resulted in an unfortunate Sunday breakfast, and chronicles his epic quest to procure a live eel in Manhattan.</desc>
+		<length units="minutes">25</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19265332_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03714069&amp;tmsId=EP037140690003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP03714069.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117022500 -0500" stop="20220117035500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Boys vs. Girls</title>
+		<desc lang="en">A battle of the sexes ensues at a summer camp that goes co-ed for the first time in its seventy-year existence.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19100351_p_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01547379&amp;tmsId=MV015473790000</url>
+		<episode-num system="dd_progid">MV01547379.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117035500 -0500" stop="20220117060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Life of Crime 1984-2020</title>
+		<desc lang="en">Examining the highs and lows of the vicious cycles of drug addiction and street crime in one of the roughest parts of New Jersey.</desc>
+		<date>2021</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">125</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20930124_v_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01746496&amp;tmsId=MV017464960000</url>
+		<episode-num system="dd_progid">MV01746496.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220117060000 -0500" stop="20220117070000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Weight of Gold</title>
+		<desc lang="en">An exploration of the mental health challenges that Olympic athletes often face.</desc>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18426106_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03535435&amp;tmsId=SH035354350000</url>
+		<episode-num system="dd_progid">SH03535435.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117070000 -0500" stop="20220117085000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">David Byrne&apos;s American Utopia</title>
+		<desc lang="en">Singer David Byrne and a group of international musicians perform songs from the hit Broadway musical &quot;American Utopia.&quot;</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18713441_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01445984&amp;tmsId=MV014459840000</url>
+		<episode-num system="dd_progid">MV01445984.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117085000 -0500" stop="20220117093500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Last Truck: Closing of a GM Plant</title>
+		<desc lang="en">Stunned workers look back on their careers at a General Motors plant after the company announces its closure.</desc>
+		<date>2009</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8015835_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00274249&amp;tmsId=MV002742490000</url>
+		<episode-num system="dd_progid">MV00274249.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117093500 -0500" stop="20220117111000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Patrick Swayze</title>
+		<desc lang="en">Documenting the life and career of the prolific actor through family photos, home movies and untold stories; includes interviews with the people who were closest to him.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17119128_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03266052&amp;tmsId=SH032660520000</url>
+		<episode-num system="dd_progid">SH03266052.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117111000 -0500" stop="20220117125500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Awakening the Zodiac</title>
+		<desc lang="en">A couple find a 40-year-old film reel that depicts the gruesome murders of two people by a serial killer who vanished. They quickly set out to solve the mystery and claim a reward but soon find themselves the target of the person they are hunting.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13998924_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00995312&amp;tmsId=MV009953120000</url>
+		<episode-num system="dd_progid">MV00995312.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117125500 -0500" stop="20220117143000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Chance of a Lifetime</title>
+		<desc lang="en">A woman (Katey Sagal) marries her fired co-worker (John Ritter) so that he can receive health insurance for a back injury.</desc>
+		<date>1998</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20525_p_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00055360&amp;tmsId=MV000553600000</url>
+		<episode-num system="dd_progid">MV00055360.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117143000 -0500" stop="20220117160000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Any One of Us</title>
+		<desc lang="en">An unprecedented glimpse into the world of spinal cord injuries.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17367739_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01302961&amp;tmsId=MV013029610000</url>
+		<episode-num system="dd_progid">MV01302961.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220117160000 -0500" stop="20220117174500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Awakening the Zodiac</title>
+		<desc lang="en">A couple find a 40-year-old film reel that depicts the gruesome murders of two people by a serial killer who vanished. They quickly set out to solve the mystery and claim a reward but soon find themselves the target of the person they are hunting.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13998924_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00995312&amp;tmsId=MV009953120000</url>
+		<episode-num system="dd_progid">MV00995312.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117174500 -0500" stop="20220117192000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Patrick Swayze</title>
+		<desc lang="en">Documenting the life and career of the prolific actor through family photos, home movies and untold stories; includes interviews with the people who were closest to him.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17119128_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03266052&amp;tmsId=SH032660520000</url>
+		<episode-num system="dd_progid">SH03266052.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117192000 -0500" stop="20220117210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Our Towns</title>
+		<desc lang="en">A panoramic yet intimate view of small towns across the United States, based on the bestselling book &quot;Our Towns: A 100,000-Mile Journey into the Heart of America,&quot; by journalists James and Deborah Fallows.</desc>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19585963_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03784870&amp;tmsId=SH037848700000</url>
+		<episode-num system="dd_progid">SH03784870.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117210000 -0500" stop="20220117220500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">My Brilliant Friend: The Story of a New Name</title>
+		<sub-title lang="en">The New Name</sub-title>
+		<desc lang="en">Newly-married Lila grows profoundly resentful of her husband and finds new ways to carry on seeing Elena.</desc>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17916321_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03434595&amp;tmsId=EP034345950001</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP03434595.0001</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117220500 -0500" stop="20220117230000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">My Brilliant Friend: The Story of a New Name</title>
+		<sub-title lang="en">The Body</sub-title>
+		<desc lang="en">A photograph of Lila on her wedding day is exhibited at a shop in the center of town, triggering admiration and gossip throughout the neighborhood.</desc>
+		<length units="minutes">55</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17943513_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03434595&amp;tmsId=EP034345950002</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03434595.0002</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117230000 -0500" stop="20220117233500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">The Divorce</sub-title>
+		<desc lang="en">Larry learns that his divorce lawyer is not kosher; Larry cancels a Girl Scout cookie order.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8687976_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780080</url>
+		<episode-num system="common">S08E01</episode-num>
+		<episode-num system="dd_progid">EP00391978.0080</episode-num>
+		<episode-num system="xmltv_ns">7.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220117233500 -0500" stop="20220118001000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">The Safe House</sub-title>
+		<desc lang="en">Larry becomes a role model for battered women; Richard Lewis&apos; relationship is tested; Leon survives a case of mistaken identity.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8687978_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780081</url>
+		<episode-num system="common">S08E02</episode-num>
+		<episode-num system="dd_progid">EP00391978.0081</episode-num>
+		<episode-num system="xmltv_ns">7.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118001000 -0500" stop="20220118012500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Many Lives of Nick Buoniconti</title>
+		<desc lang="en">NFL Hall of Famer Nick Buoniconti&apos;s life story encompasses turns as a linebacker, lawyer, sports agent, broadcaster, executive and philanthropist.</desc>
+		<length units="minutes">75</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16346250_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03119990&amp;tmsId=SH031199900000</url>
+		<episode-num system="dd_progid">SH03119990.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118012500 -0500" stop="20220118031000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Awakening the Zodiac</title>
+		<desc lang="en">A couple find a 40-year-old film reel that depicts the gruesome murders of two people by a serial killer who vanished. They quickly set out to solve the mystery and claim a reward but soon find themselves the target of the person they are hunting.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13998924_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00995312&amp;tmsId=MV009953120000</url>
+		<episode-num system="dd_progid">MV00995312.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118031000 -0500" stop="20220118050000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Castle in the Ground</title>
+		<desc lang="en">A grieving teen befriends his charismatic but troubled neighbor, only to become ensnared in a world of addiction and violence as the opioid epidemic takes hold of his small town.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17415748_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01309351&amp;tmsId=MV013093510000</url>
+		<episode-num system="dd_progid">MV01309351.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118050000 -0500" stop="20220118060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Saudi Women&apos;s Driving School</title>
+		<desc lang="en">For many Americans, getting a driver&apos;s license is a mundane rite of passage. But for women in Saudi Arabia, who were only allowed to drive legally starting in June 2018, it&apos;s a critical step along the road to independence.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17444296_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01312501&amp;tmsId=MV013125010000</url>
+		<episode-num system="dd_progid">MV01312501.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220118060000 -0500" stop="20220118073500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Wig</title>
+		<desc lang="en">The origins and the influence of the annual drag festival known as Wigstock.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16846580_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01253180&amp;tmsId=MV012531800000</url>
+		<episode-num system="dd_progid">MV01253180.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118073500 -0500" stop="20220118090500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Southern Rites</title>
+		<desc lang="en">Photographer Gillian Laub documents a divisive murder case in a small Georgia town that only merged its segregated proms one year earlier.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11620241_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02151314&amp;tmsId=SH021513140000</url>
+		<episode-num system="dd_progid">SH02151314.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118090500 -0500" stop="20220118110000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">One Day in the Life of Noah Piugattuk</title>
+		<desc lang="en">A government agent tries to get an Inuit man and his children to move to settlement housing.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17862822_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01374251&amp;tmsId=MV013742510000</url>
+		<episode-num system="dd_progid">MV01374251.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220118110000 -0500" stop="20220118124500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Edge of the Knife</title>
+		<desc lang="en">A tragic accident causes an anguished man to retreat deep into the forest where he is transformed into a &quot;wild man.&quot;</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16253999_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01209391&amp;tmsId=MV012093910000</url>
+		<episode-num system="dd_progid">MV01209391.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118124500 -0500" stop="20220118141500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Enemy Within</title>
+		<desc lang="en">A Marine officer (Forest Whitaker) serving on the Joint Chiefs of Staff suspects his superior of plotting to oust the president (Sam Waterston).</desc>
+		<date>1994</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15754_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00039584&amp;tmsId=MV000395840000</url>
+		<episode-num system="dd_progid">MV00039584.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118141500 -0500" stop="20220118161000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">King in the Wilderness</title>
+		<desc lang="en">A portrait of Martin Luther King Jr. during the last years of his life, from his part in the Voting Rights Act of 1965 to his assassination in 1968.</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15212468_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01090819&amp;tmsId=MV010908190000</url>
+		<episode-num system="dd_progid">MV01090819.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220118161000 -0500" stop="20220118175500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Edge of the Knife</title>
+		<desc lang="en">A tragic accident causes an anguished man to retreat deep into the forest where he is transformed into a &quot;wild man.&quot;</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16253999_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01209391&amp;tmsId=MV012093910000</url>
+		<episode-num system="dd_progid">MV01209391.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118175500 -0500" stop="20220118195000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">One Day in the Life of Noah Piugattuk</title>
+		<desc lang="en">A government agent tries to get an Inuit man and his children to move to settlement housing.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17862822_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01374251&amp;tmsId=MV013742510000</url>
+		<episode-num system="dd_progid">MV01374251.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220118195000 -0500" stop="20220118210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Wartorn 1861-2010</title>
+		<desc lang="en">Post-traumatic stress disorder affects U.S. soldiers since the Civil War.</desc>
+		<length units="minutes">70</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8321329_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01333674&amp;tmsId=SH013336740000</url>
+		<episode-num system="dd_progid">SH01333674.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118210000 -0500" stop="20220118224000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Obama: In Pursuit of a More Perfect Union</title>
+		<desc lang="en">Obama&apos;s campaign trail in 2008 and the struggles he faced as he fought to become the next president, particularly the pressure to define his identity along racial lines, which he viewed as a distraction from other important issues.</desc>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20319610_e_v9_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03930790&amp;tmsId=EP039307900002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03930790.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220118224000 -0500" stop="20220118234000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Q: Into the Storm</title>
+		<sub-title lang="en">Game Over</sub-title>
+		<desc lang="en">The rivalry between Fred and the Watkins intensifies; 8chan is relaunched as 8kun, and Q reemerges after months of being offline; back in Manila, Jim slaps Fred with a lawsuit, forcing him to plan a great escape.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19591474_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03786015&amp;tmsId=EP037860150005</url>
+		<episode-num system="common">S01E05</episode-num>
+		<episode-num system="dd_progid">EP03786015.0005</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220118234000 -0500" stop="20220119001500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">Palestinian Chicken</sub-title>
+		<desc lang="en">Larry plays social assassin at a dinner party, on the golf course and at a restaurant.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8687979_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780082</url>
+		<episode-num system="common">S08E03</episode-num>
+		<episode-num system="dd_progid">EP00391978.0082</episode-num>
+		<episode-num system="xmltv_ns">7.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119001500 -0500" stop="20220119005000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">The Smiley Face</sub-title>
+		<desc lang="en">Larry vows to invalidate a dating taboo; Larry regrets making concessions to his neighbor; Jeff&apos;s alibi backfires.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8687980_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780083</url>
+		<episode-num system="common">S08E04</episode-num>
+		<episode-num system="dd_progid">EP00391978.0083</episode-num>
+		<episode-num system="xmltv_ns">7.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119005000 -0500" stop="20220119023000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Padre</title>
+		<desc lang="en">A retired judge and a hired gun try to track down a small-time con man who&apos;s posing as a priest in a Colombian town. They&apos;re soon thrown off course by a scrappy 16-year-old who&apos;s trying to reunite with her youngster sister in the United States.</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15392778_p_v10_tr.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01106708&amp;tmsId=MV011067080000</url>
+		<episode-num system="dd_progid">MV01106708.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119023000 -0500" stop="20220119041500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Edge of the Knife</title>
+		<desc lang="en">A tragic accident causes an anguished man to retreat deep into the forest where he is transformed into a &quot;wild man.&quot;</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16253999_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01209391&amp;tmsId=MV012093910000</url>
+		<episode-num system="dd_progid">MV01209391.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119041500 -0500" stop="20220119060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Blood Quantum</title>
+		<desc lang="en">A zombie virus decimates all of Earth&apos;s population except the Mi&apos;qmaq community of Red Crow.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17415820_p_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01309362&amp;tmsId=MV013093620000</url>
+		<episode-num system="dd_progid">MV01309362.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220119060000 -0500" stop="20220119075000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Elizabeth I</title>
+		<desc lang="en">The Queen of England balances her personal desires with the prospect of a strategic marriage, but she cannot wed the Earl of Leicester and would not marry the Earl of Essex.</desc>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9076994_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01529821&amp;tmsId=EP015298210001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP01529821.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119075000 -0500" stop="20220119094500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Elizabeth I</title>
+		<desc lang="en">The Queen of England balances her personal desires with the prospect of a strategic marriage, but she cannot wed the Earl of Leicester and would not marry the Earl of Essex.</desc>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9076995_e_v4_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01529821&amp;tmsId=EP015298210002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP01529821.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119094500 -0500" stop="20220119112000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Special Relationship</title>
+		<desc lang="en">British Prime Minister Tony Blair (Michael Sheen) forges a loyal friendship with President Bill Clinton (Dennis Quaid).</desc>
+		<date>2010</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8069744_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00277933&amp;tmsId=MV002779330000</url>
+		<episode-num system="dd_progid">MV00277933.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119112000 -0500" stop="20220119125500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Burt Reynolds</title>
+		<desc lang="en">Interviews and archival footage provide insight into the life of movie star Burt Reynolds.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19229752_b_v10_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03716851&amp;tmsId=SH037168510000</url>
+		<episode-num system="dd_progid">SH03716851.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220119125500 -0500" stop="20220119143500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Ernie &amp; Joe: Crisis Cops</title>
+		<desc lang="en">The journey of two police officers with the San Antonio Texas Police Department as they divert people away from jail and into mental health treatment.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17217769_v_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01312306&amp;tmsId=MV013123060000</url>
+		<episode-num system="dd_progid">MV01312306.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119143500 -0500" stop="20220119162000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Ice on Fire</title>
+		<desc lang="en">Visionaries and scientists work to mitigate climate change and minimize climate-related events, despite a rapidly warming planet.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16953648_p_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01260183&amp;tmsId=MV012601830000</url>
+		<episode-num system="dd_progid">MV01260183.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119162000 -0500" stop="20220119180500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Natalie Wood: What Remains Behind</title>
+		<desc lang="en">Interviews, home movies, photographs and diaries offer insight into the remarkable life and career of actress Natalie Wood.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17996927_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01387319&amp;tmsId=MV013873190000</url>
+		<episode-num system="dd_progid">MV01387319.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119180500 -0500" stop="20220119194000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Burt Reynolds</title>
+		<desc lang="en">Interviews and archival footage provide insight into the life of movie star Burt Reynolds.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19229752_b_v10_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03716851&amp;tmsId=SH037168510000</url>
+		<episode-num system="dd_progid">SH03716851.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220119194000 -0500" stop="20220119210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Wild Card: The Downfall of a Radio Loudmouth</title>
+		<desc lang="en">New York sports radio personality Craig Carton&apos;s secret gambling addiction, financed by an illicit ticket-broking business, brings his career to a halt when he is arrested by FBI agents and charged with conspiracy, wire fraud and securities fraud.</desc>
+		<length units="minutes">80</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18654575_b_v13_al.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03587037&amp;tmsId=SH035870370000</url>
+		<episode-num system="dd_progid">SH03587037.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119210000 -0500" stop="20220119213000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Righteous Gemstones</title>
+		<sub-title lang="en">For He Is a Liar and the Father of Lies</sub-title>
+		<desc lang="en">The Gemstone siblings seek to pull back the curtain on their father&apos;s past; Eli shares a hard truth, and Kelvin grapples with an unruly God Squad.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084372_e_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03221259&amp;tmsId=EP032212590012</url>
+		<episode-num system="common">S02E03</episode-num>
+		<episode-num system="dd_progid">EP03221259.0012</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220119213000 -0500" stop="20220119220000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Somebody Somewhere</title>
+		<sub-title lang="en">BFD</sub-title>
+		<desc lang="en">Sam, a true Kansan on the surface, struggles to fit her hometown&apos;s mold; grappling with loss and acceptance, singing is her saving grace and leads her on a journey to discover herself and a community of outsiders who don&apos;t fit in and don&apos;t give up.</desc>
+		<date>20220117</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21140291_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04114415&amp;tmsId=EP041144150001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP04114415.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119220000 -0500" stop="20220119230000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Euphoria</title>
+		<sub-title lang="en">Out of Touch</sub-title>
+		<desc lang="en">A group of high school students navigates drugs, sex, identity, trauma, social media, love and friendship.</desc>
+		<date>20220117</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084307_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03201830&amp;tmsId=EP032018300013</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03201830.0013</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220119230000 -0500" stop="20220119233500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">Vow of Silence</sub-title>
+		<desc lang="en">A failed alibi has consequences; a family dog is denied a last meal; Larry has a confrontation in a buffet line.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8730702_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780084</url>
+		<episode-num system="common">S08E05</episode-num>
+		<episode-num system="dd_progid">EP00391978.0084</episode-num>
+		<episode-num system="xmltv_ns">7.4.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220119233500 -0500" stop="20220120001000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">The Hero</sub-title>
+		<desc lang="en">Larry plays the hero; a nosy waiter sabotages Jeff&apos;s courtship of Ricky Gervais.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8730703_e_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780085</url>
+		<episode-num system="common">S08E06</episode-num>
+		<episode-num system="dd_progid">EP00391978.0085</episode-num>
+		<episode-num system="xmltv_ns">7.5.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120001000 -0500" stop="20220120015000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Bully. Coward. Victim. The Story of Roy Cohn</title>
+		<desc lang="en">Filmmaker Ivy Meeropol examines the fascinating and controversial life of high-profile lawyer Roy Cohn.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18264301_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01408621&amp;tmsId=MV014086210000</url>
+		<episode-num system="dd_progid">MV01408621.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120015000 -0500" stop="20220120032500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Burt Reynolds</title>
+		<desc lang="en">Interviews and archival footage provide insight into the life of movie star Burt Reynolds.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19229752_b_v10_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03716851&amp;tmsId=SH037168510000</url>
+		<episode-num system="dd_progid">SH03716851.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220120032500 -0500" stop="20220120050000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Jump, Darling</title>
+		<desc lang="en">A rookie drag queen reeling from a breakup escapes to the country, where he finds his grandmother in steep decline yet desperate to avoid the local nursing home.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19547296_p_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01595620&amp;tmsId=MV015956200000</url>
+		<episode-num system="dd_progid">MV01595620.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120050000 -0500" stop="20220120060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Drew Michael: Red Blue Green</title>
+		<desc lang="en">In this hilarious, confessional hour of stand-up, Drew Michael airs his issues with relationships, social media, and comedy as therapy.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21039751_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04098465&amp;tmsId=SH040984650000</url>
+		<episode-num system="dd_progid">SH04098465.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120060000 -0500" stop="20220120075500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Walkout</title>
+		<desc lang="en">A teacher (Michael Peña) becomes a mentor to Chicano high-school students protesting injustices in public schools in 1968.</desc>
+		<date>2006</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">115</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p160857_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00173330&amp;tmsId=MV001733300000</url>
+		<episode-num system="dd_progid">MV00173330.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120075500 -0500" stop="20220120101000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Rock &amp; Roll Hall of Fame 2020 Inductions</title>
+		<desc lang="en">Inductees include Depeche Mode, The Doobie Brothers, Whitney Houston, Nine Inch Nails, The Notorious B.I.G., and T-Rex; Jon Landau and Irving Azoff are Ahmet Ertegun Award honorees; guests will include Dave Grohl, Don Henley and Alicia Keys.</desc>
+		<length units="minutes">135</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17987660_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03445319&amp;tmsId=SH034453190000</url>
+		<episode-num system="dd_progid">SH03445319.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120101000 -0500" stop="20220120104000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Emperor&apos;s New Clothes</title>
+		<desc lang="en">Two swindler&apos;s convince Emperor Louis that his new clothes can be seen only by fools, but they don&apos;t count on the honesty of a child.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8013289_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01235694&amp;tmsId=SH012356940000</url>
+		<episode-num system="dd_progid">SH01235694.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220120104000 -0500" stop="20220120121500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Alfred Hitchcock</title>
+		<desc lang="en">Interviews and archival footage weave together to tell the story of the Master of Suspense, one of the most influential and studied filmmakers in the history of cinema.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19875463_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03849386&amp;tmsId=SH038493860000</url>
+		<episode-num system="dd_progid">SH03849386.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220120121500 -0500" stop="20220120135500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Life According to Sam</title>
+		<desc lang="en">After they learn that their only child has progeria, Drs. Leslie Gordon and Scott Berns set up a foundation and oversee the development of an experimental drug to treat the rare disorder.</desc>
+		<date>2013</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">100</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9719231_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00457340&amp;tmsId=MV004573400000</url>
+		<episode-num system="dd_progid">MV00457340.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20220120135500 -0500" stop="20220120161000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Diego Maradona</title>
+		<desc lang="en">On July 5, 1984, Diego Maradona arrives in Naples for a world-record fee. The world&apos;s most celebrated soccer icon and the most passionate but dangerous city in Europe are a perfect match for each other.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">135</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16944483_p_v13_at.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01270491&amp;tmsId=MV012704910000</url>
+		<episode-num system="dd_progid">MV01270491.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120161000 -0500" stop="20220120174500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Alfred Hitchcock</title>
+		<desc lang="en">Interviews and archival footage weave together to tell the story of the Master of Suspense, one of the most influential and studied filmmakers in the history of cinema.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19875463_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03849386&amp;tmsId=SH038493860000</url>
+		<episode-num system="dd_progid">SH03849386.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220120174500 -0500" stop="20220120191500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Fake Famous</title>
+		<desc lang="en">Exploring the industry of social media influencers with an innovative social experiment -- three people in Los Angeles with relatively small social followings attempt to become famous influencers by purchasing fake followers and an army of bots.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19272378_b_v13_bc.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03727381&amp;tmsId=SH037273810000</url>
+		<episode-num system="dd_progid">SH03727381.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120191500 -0500" stop="20220120210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Apollo</title>
+		<desc lang="en">Filmmaker Roger Ross Williams looks at the storied history of the iconic Apollo Theater while following the Apollo&apos;s inaugural staging of Ta-Nehisi Coates&apos; acclaimed &quot;Between the World and Me.&quot;</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17326227_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01298600&amp;tmsId=MV012986000000</url>
+		<episode-num system="dd_progid">MV01298600.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220120210000 -0500" stop="20220120223500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">A Choice of Weapons: Inspired by Gordon Parks</title>
+		<desc lang="en">Following Gordon Parks&apos; career, from staff photographer for LIFE magazine through his artistic development photographing everyday Americans and his evolution as a novelist and filmmaker.</desc>
+		<date>2021</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20931471_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01746613&amp;tmsId=MV017466130000</url>
+		<episode-num system="dd_progid">MV01746613.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120223500 -0500" stop="20220120231000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Traffic Stop</title>
+		<desc lang="en">A 26-year-old teacher from Austin, Texas, is violently arrested during a routine traffic stop.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15077574_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01080175&amp;tmsId=MV010801750000</url>
+		<episode-num system="dd_progid">MV01080175.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120231000 -0500" stop="20220120234500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">The Bi-Sexual</sub-title>
+		<desc lang="en">Larry competes with Rosie O&apos;Donnell for the same woman; Larry refuses to have lunch with an acquaintance.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8730704_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780086</url>
+		<episode-num system="common">S08E07</episode-num>
+		<episode-num system="dd_progid">EP00391978.0086</episode-num>
+		<episode-num system="xmltv_ns">7.6.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220120234500 -0500" stop="20220121002000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Curb Your Enthusiasm</title>
+		<sub-title lang="en">Car Periscope</sub-title>
+		<desc lang="en">Larry and Jeff weigh an investment opportunity; Larry&apos;s training schedule is preempted.</desc>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8730705_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00391978&amp;tmsId=EP003919780087</url>
+		<episode-num system="common">S08E08</episode-num>
+		<episode-num system="dd_progid">EP00391978.0087</episode-num>
+		<episode-num system="xmltv_ns">7.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121002000 -0500" stop="20220121021000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Castle in the Ground</title>
+		<desc lang="en">A grieving teen befriends his charismatic but troubled neighbor, only to become ensnared in a world of addiction and violence as the opioid epidemic takes hold of his small town.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17415748_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01309351&amp;tmsId=MV013093510000</url>
+		<episode-num system="dd_progid">MV01309351.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121021000 -0500" stop="20220121034500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Alfred Hitchcock</title>
+		<desc lang="en">Interviews and archival footage weave together to tell the story of the Master of Suspense, one of the most influential and studied filmmakers in the history of cinema.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19875463_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03849386&amp;tmsId=SH038493860000</url>
+		<episode-num system="dd_progid">SH03849386.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220121034500 -0500" stop="20220121060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">61</title>
+		<desc lang="en">New York Yankees Roger Maris (Barry Pepper) and Mickey Mantle (Thomas Jane) try to break Babe Ruth&apos;s home-run record in 1961.</desc>
+		<date>2001</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">135</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p26929_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00102349&amp;tmsId=MV001023490000</url>
+		<episode-num system="dd_progid">MV00102349.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121060000 -0500" stop="20220121073500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Totem</title>
+		<desc lang="en">A teen uses a totem to control a supernatural presence in her house.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14569272_p_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01039044&amp;tmsId=MV010390440000</url>
+		<episode-num system="dd_progid">MV01039044.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121073500 -0500" stop="20220121092000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Awakening the Zodiac</title>
+		<desc lang="en">A couple find a 40-year-old film reel that depicts the gruesome murders of two people by a serial killer who vanished. They quickly set out to solve the mystery and claim a reward but soon find themselves the target of the person they are hunting.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13998924_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00995312&amp;tmsId=MV009953120000</url>
+		<episode-num system="dd_progid">MV00995312.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121092000 -0500" stop="20220121111000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Monkey Beach</title>
+		<desc lang="en">A young woman with supernatural abilities reflects on profound events in her life as she awaits news of her brother, who has gone missing at sea under questionable circumstances.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18810691_p_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01454409&amp;tmsId=MV014544090000</url>
+		<episode-num system="dd_progid">MV01454409.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220121111000 -0500" stop="20220121124500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Patrick Swayze</title>
+		<desc lang="en">Documenting the life and career of the prolific actor through family photos, home movies and untold stories; includes interviews with the people who were closest to him.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17119128_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03266052&amp;tmsId=SH032660520000</url>
+		<episode-num system="dd_progid">SH03266052.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121124500 -0500" stop="20220121141500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Any One of Us</title>
+		<desc lang="en">An unprecedented glimpse into the world of spinal cord injuries.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17367739_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01302961&amp;tmsId=MV013029610000</url>
+		<episode-num system="dd_progid">MV01302961.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220121141500 -0500" stop="20220121150000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Last Truck: Closing of a GM Plant</title>
+		<desc lang="en">Stunned workers look back on their careers at a General Motors plant after the company announces its closure.</desc>
+		<date>2009</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">45</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8015835_p_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00274249&amp;tmsId=MV002742490000</url>
+		<episode-num system="dd_progid">MV00274249.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121150000 -0500" stop="20220121165000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Monkey Beach</title>
+		<desc lang="en">A young woman with supernatural abilities reflects on profound events in her life as she awaits news of her brother, who has gone missing at sea under questionable circumstances.</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18810691_p_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01454409&amp;tmsId=MV014544090000</url>
+		<episode-num system="dd_progid">MV01454409.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20220121165000 -0500" stop="20220121182500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Art of Political Murder</title>
+		<desc lang="en">An investigation into the truth behind the murder of Guatemalan Bishop Juan Gerardi, who was killed in 1998 just days after trying to hold the country&apos;s military accountable for the atrocities committed during its civil war.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17592233_p_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01337542&amp;tmsId=MV013375420000</url>
+		<episode-num system="dd_progid">MV01337542.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121182500 -0500" stop="20220121193000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Weight of Gold</title>
+		<desc lang="en">An exploration of the mental health challenges that Olympic athletes often face.</desc>
+		<length units="minutes">65</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18426106_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03535435&amp;tmsId=SH035354350000</url>
+		<episode-num system="dd_progid">SH03535435.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121193000 -0500" stop="20220121210000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">The Day Sports Stood Still</title>
+		<desc lang="en">Documenting the previously unprecedented sports shutdown in March 2020 in the face of the COVID-19 pandemic and the events that followed, including athlete interviews and insights from team owners and NBA staff.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19420569_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03757770&amp;tmsId=SH037577700000</url>
+		<episode-num system="dd_progid">SH03757770.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121210000 -0500" stop="20220121220000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Euphoria</title>
+		<sub-title lang="en">Out of Touch</sub-title>
+		<desc lang="en">A group of high school students navigates drugs, sex, identity, trauma, social media, love and friendship.</desc>
+		<date>20220117</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21084307_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03201830&amp;tmsId=EP032018300013</url>
+		<episode-num system="common">S02E02</episode-num>
+		<episode-num system="dd_progid">EP03201830.0013</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown start="20220117000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>18+</value>
+		</rating>
+	</programme>
+	<programme start="20220121220000 -0500" stop="20220121230000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Real Time With Bill Maher</title>
+		<desc lang="en">Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.</desc>
+		<date>20220122</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185450_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00553722&amp;tmsId=EP005537220589</url>
+		<episode-num system="common">S20E01</episode-num>
+		<episode-num system="dd_progid">EP00553722.0589</episode-num>
+		<episode-num system="xmltv_ns">19.0.</episode-num>
+		<premiere>Premiere</premiere>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121230000 -0500" stop="20220121232500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Painting With John</title>
+		<sub-title lang="en">Bob Ross Was Wrong</sub-title>
+		<desc lang="en">After contemplating how to open his show, artist John Lurie discusses his parents&apos; approach to nurturing their kids&apos; creativity, and his lack of trust in someone until he has heard them laugh.</desc>
+		<length units="minutes">25</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19218870_e_v10_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03714069&amp;tmsId=EP037140690001</url>
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="dd_progid">EP03714069.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121232500 -0500" stop="20220121235000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Painting With John</title>
+		<sub-title lang="en">The Explosion Story</sub-title>
+		<desc lang="en">John crashes his seventh drone in his attempt to film a show opening, shares how his cancer treatment led to a middle-of-the-night disastrous shrimp curry incident, and recalls meeting Barry White.</desc>
+		<length units="minutes">25</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19223914_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03714069&amp;tmsId=EP037140690002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03714069.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220121235000 -0500" stop="20220122014000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Confirmation</title>
+		<desc lang="en">Nominated to the Supreme Court in 1991, Judge Clarence Thomas (Wendell Pierce) must testify before the Senate Judiciary Committee after Anita Hill (Kerry Washington), his former employee, claims that he sexually harassed her.</desc>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">110</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12580197_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00854412&amp;tmsId=MV008544120000</url>
+		<episode-num system="dd_progid">MV00854412.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122014000 -0500" stop="20220122024000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Real Time With Bill Maher</title>
+		<desc lang="en">Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues.</desc>
+		<date>20220122</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185450_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00553722&amp;tmsId=EP005537220589</url>
+		<episode-num system="common">S20E01</episode-num>
+		<episode-num system="dd_progid">EP00553722.0589</episode-num>
+		<episode-num system="xmltv_ns">19.0.</episode-num>
+		<previously-shown start="20220122000000" />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122024000 -0500" stop="20220122041500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Patrick Swayze</title>
+		<desc lang="en">Documenting the life and career of the prolific actor through family photos, home movies and untold stories; includes interviews with the people who were closest to him.</desc>
+		<length units="minutes">95</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17119128_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03266052&amp;tmsId=SH032660520000</url>
+		<episode-num system="dd_progid">SH03266052.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122041500 -0500" stop="20220122060000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Awakening the Zodiac</title>
+		<desc lang="en">A couple find a 40-year-old film reel that depicts the gruesome murders of two people by a serial killer who vanished. They quickly set out to solve the mystery and claim a reward but soon find themselves the target of the person they are hunting.</desc>
+		<date>2017</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p13998924_p_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV00995312&amp;tmsId=MV009953120000</url>
+		<episode-num system="dd_progid">MV00995312.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122060000 -0500" stop="20220122071000 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Finding the Way Home</title>
+		<desc lang="en">The stories of eight children who have been reunited with family members or placed in loving foster homes after being exposed to the distressing conditions prevalent in orphanages and institutions around the world.</desc>
+		<length units="minutes">70</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17582072_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03357049&amp;tmsId=SH033570490000</url>
+		<episode-num system="dd_progid">SH03357049.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122071000 -0500" stop="20220122085500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Edge of the Knife</title>
+		<desc lang="en">A tragic accident causes an anguished man to retreat deep into the forest where he is transformed into a &quot;wild man.&quot;</desc>
+		<date>2018</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">105</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16253999_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01209391&amp;tmsId=MV012093910000</url>
+		<episode-num system="dd_progid">MV01209391.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122085500 -0500" stop="20220122102500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">I Am Jackie O</title>
+		<desc lang="en">Interviews and archival footage provide insight into the extraordinary life and legacy of Jacqueline Kennedy Onassis.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18952168_b_v13_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03647173&amp;tmsId=SH036471730000</url>
+		<episode-num system="dd_progid">SH03647173.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
+		</rating>
+	</programme>
+	<programme start="20220122102500 -0500" stop="20220122122500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">One Day in the Life of Noah Piugattuk</title>
+		<desc lang="en">A government agent tries to get an Inuit man and his children to move to settlement housing.</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17862822_b_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01374251&amp;tmsId=MV013742510000</url>
+		<episode-num system="dd_progid">MV01374251.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20220122122500 -0500" stop="20220122135500 -0500" channel="I404.61568.zap2it.com">
+		<title lang="en">Southern Rites</title>
+		<desc lang="en">Photographer Gillian Laub documents a divisive murder case in a small Georgia town that only merged its segregated proms one year earlier.</desc>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11620241_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02151314&amp;tmsId=SH021513140000</url>
+		<episode-num system="dd_progid">SH02151314.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>14+</value>
 		</rating>
 	</programme>
 </tv>
